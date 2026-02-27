@@ -1,0 +1,5 @@
+# Archivos de diseño Pencil
+*.pen
+
+# Records internos
+records/
